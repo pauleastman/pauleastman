@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pauleastman
 - 👀 I’m interested in ...music, technology, code
-- 🌱 I’m currently learning ...blockchain
+- 🌱 I’m currently learning, all the time..
 - 💞️ I’m looking to collaborate on ...groundbreaking startup..
 - 📫 How to reach me ...http://www.fluqe.com
 
