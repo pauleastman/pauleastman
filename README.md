@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...music, technology, code
 - 🌱 I’m currently learning, all the time..
 - 💞️ I’m looking to collaborate on ...groundbreaking startup..
-- 📫 How to reach me ...http://www.fluqe.com
+- 📫 How to reach me ...http://fluqe.com
 
 <!---
 pauleastman/pauleastman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
